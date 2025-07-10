@@ -25,3 +25,5 @@ Add/remove products
 View cart contents
 
 Checkout process
+
+Effective UI/UX
